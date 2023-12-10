@@ -1,1 +1,12 @@
-
+Date: The date of the stock price data.  
+Open: The opening price of the stock on that date.  
+High: The highest price the stock reached during the trading day.  
+Low: The lowest price the stock reached during the trading day.  
+Close: The closing price of the stock on that date.  
+Volume: The trading volume, i.e., the number of shares traded on that date.  
+Dividends: Dividends paid on that date (if any).  
+Stock Splits: Information about stock splits (if any).  
+Brand_Name: The name of the brand or company.  
+Ticker: Ticker symbol for the stock.  
+Industry_Tag: The industry category or sector to which the brand belongs.  
+Country: The country where the brand is headquartered or primarily operates. 
